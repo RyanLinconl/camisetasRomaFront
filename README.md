@@ -26,3 +26,7 @@ cd login-form-react
 npm install
 
 npm start
+
+2. Entre pelo deploy:
+
+https://camisetas-roma-front.vercel.app
