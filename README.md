@@ -19,7 +19,7 @@ Este projeto é um simples formulário de login construído com React. Ele apres
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/login-form-react.git
+   git clone https://github.com/RyanLinconl/camisetasRoma.git
 
 cd login-form-react
 
